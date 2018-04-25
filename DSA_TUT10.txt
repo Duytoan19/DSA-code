@@ -1,0 +1,15 @@
+Bài 1:
++ phuong pháp s? d?ng thu?t toán mergesort ho?c timesort d? có d? ph?c t?p là O(n) :
+Bài 2 :
++ do ch? là dãy bit c?u t?o b?i 0 và 1 vì v?y s?p tang thì ch? t?n t?i 2 s? 0 ? 1 bên và 1 ? 1 bên do v?y d? ph?c tpj thu?t toán ch? là n
+Bài 3:+ dánh giá v?i tru?ng h?p t?t nh?t thì d? ph?c t?p c?a 
+	insertionsort là : o(n)
+	heap_sort và mergesort có d? ph?c t?p (nlog(n))
+	m?c dù v?y trong tru?ng h?p x?u nh?t thì th?i gian x? lí c?a mergesort luôn nhanh hon vì v?y t?i uu hon nhung mergesort khó thu?c code
+insertionsort d? nh? hon nên mình ch?n insertionsort
+Bài 4:
+ví d? nhé ki?m tra trong dãy xem có ph?n t? nào b?ng nhau không thì if(a[i] == a[j])
+th? thôi còn th?i gian ch?y nó còn ph? thu?c vào s? ph?n t? dãy n n?u n thì ch?c là 1ms
+Bài 5:
+ dùng mergesort n?u nh? s?p x?p 2 m?ng sau dó ki?m tra các ph?n t? 2 m?ng 
+th?i gian 2*nlog(n)
